@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <title>IES Solna</title>
+</head>
+
+<body>
+    <h2>IES SOLNA</h2>
+    <p>IES <small>(or Internationella Engelska Skolan)</small> Solna is an english school in Solna. It is on of the
+        <em>MANY</em> schools owned by the IES company. The school teaches subjects in both English and Swedish, it
+        depends on the subject (e.g Social Studies is in Swedish, while Maths is in English). The school takes students
+        from the 4<sup>th</sup> grade up to the 9<sup>th</sup> grade </p>
+    <h3>Questions</h3>
+    <p>
+        <mark>Q1: How many students are enrolled in the school</mark>
+        <br> <br>- <i>There are roughly 730 students at our school</i>
+        <br><br>
+        <mark>Q2: How good does your English have to be?</mark>
+        <br><br>- <i>Any level of english is good</i>
+
+    </p>
+
+    <h4><br><br>Contact us</h4>
+    <p><em>Address: Diktarvägen 2 - 4, 171 73</em>
+        <br> <em>Phone: 070-857 21 43</em>
+        <br> <i>We Can't Wait To Meet You!</i>
+    </p>
+</body>
+
+
+</html>
